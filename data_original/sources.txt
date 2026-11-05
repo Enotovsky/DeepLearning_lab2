@@ -1,0 +1,10 @@
+fish_near.jpeg: imagenette2-160/val/n01440764/ILSVRC2012_val_00017472.JPEG
+fish_far.jpeg: imagenette2-160/val/n01440764/ILSVRC2012_val_00030740.JPEG
+dog_near.jpeg: imagenette2-160/val/n02102040/ILSVRC2012_val_00007032.JPEG
+dog_far.jpeg: imagenette2-160/val/n02102040/ILSVRC2012_val_00014280.JPEG
+church_near.jpeg: imagenette2-160/val/n03028079/ILSVRC2012_val_00003682.JPEG
+church_far.jpeg: imagenette2-160/val/n03028079/ILSVRC2012_val_00023000.JPEG
+truck_near.jpeg: imagenette2-160/val/n03417042/ILSVRC2012_val_00006922.JPEG
+truck_far.jpeg: imagenette2-160/val/n03417042/ILSVRC2012_val_00027110.JPEG
+parachute_near.jpeg: imagenette2-160/val/n03888257/ILSVRC2012_val_00010460.JPEG
+parachute_far.jpeg: imagenette2-160/val/n03888257/ILSVRC2012_val_00002990.JPEG

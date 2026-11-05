@@ -1,0 +1,15 @@
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+/data/*
+!/data/*.jpeg
+/results/
+/results_original/
+*.pth
+*.pt
+*.tgz
+*.zip
